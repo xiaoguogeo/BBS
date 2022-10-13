@@ -3,4 +3,4 @@
 
 
 ##ps
-###本项目使用的是MySQL数据库，在使用前，先将“personalblog.sql”导入到MySQL数据库中才可使用
+本项目使用的是MySQL数据库，在使用前，先将“personalblog.sql”导入到MySQL数据库中才可使用
